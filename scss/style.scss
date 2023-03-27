@@ -1,6 +1,6 @@
-body{
-    background-color: darkgreen;
+@import "./reset";
+// Generics
 
-    color: aquamarine;
+:root {
+  font-size: 0.785rem;
 }
-
