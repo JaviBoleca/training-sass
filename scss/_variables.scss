@@ -1,1 +1,36 @@
-$full-width:100vw
+// /Declaracion de variables
+$blue: #0d6efd;
+$indigo: #6610f2;
+$purple: #6f42c1;
+$pink: #d63384;
+$red: #dc3545;
+$orange: #fd7e14;
+$yellow: #ffc107;
+$green: #198754;
+$teal: #20c997;
+$cyan: #0dcaf0;
+$dark:#292a2b;
+$green-white:#edf4eb;
+$white: #fff;
+$gray: #adb5bd;
+$full-width: 100vw;
+$full-height: 100vh;
+$bg-color: $green;
+
+$full-width:100vw;
+$full-height: 100vh;
+$bg-color:$green;
+$br-1: .3rem;
+$border-width: "1px";
+$border-style: "solid";
+$border-color: "dark";
+//concatenar strings
+$base-path: "../img/";
+$file-name: "pic02.jpg";
+$path: $base-path + $file-name; 
+// valores numericos
+$margin-top: 30*1px;
+
+//fuentes
+$rubik:'Rubik', sans-serif;
+$titillium: 'Titillium Web', sans-serif;

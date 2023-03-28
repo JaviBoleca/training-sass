@@ -9,4 +9,22 @@
 
 :root {
   font-size: 0.785rem;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #198754;
+  padding-top: 3em;
+  padding: 0.25em;
+  font-family: rubik;
+}
+body h1 {
+  font-family: titillium;
+}
+body .main {
+  width: 80%;
+  border: solid 1px #292a2b;
+  border-radius: 0.3rem;
+  padding: 1em 2em;
+  margin: 2em auto;
 }/*# sourceMappingURL=style.css.map */
